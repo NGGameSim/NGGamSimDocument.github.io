@@ -1,0 +1,26 @@
+var class_n_g_a_p_i_1_1_a_p_i =
+[
+    [ "CanFire", "class_n_g_a_p_i_1_1_a_p_i.html#a7303ec11776de1bdc2a3138a4d001bb5", null ],
+    [ "DetectedThisTurn", "class_n_g_a_p_i_1_1_a_p_i.html#af73a1808cf1466afcf29262f78a2fa8c", null ],
+    [ "Fire", "class_n_g_a_p_i_1_1_a_p_i.html#adadc36796b61c7963e8bf9c16a81efb6", null ],
+    [ "GetLastKnownPosition", "class_n_g_a_p_i_1_1_a_p_i.html#adc594148535af505350268bbd5d45ddd", null ],
+    [ "GetNumberOfTurnsSinceStart", "class_n_g_a_p_i_1_1_a_p_i.html#a541c8a9511350ce4983690e6492a6221", null ],
+    [ "GetRandomInteger", "class_n_g_a_p_i_1_1_a_p_i.html#a63cedf132a30d25da3b4aa8e7a0d16db", null ],
+    [ "GetRemainingMissiles", "class_n_g_a_p_i_1_1_a_p_i.html#aebf82b1209f606133c0413234eb81661", null ],
+    [ "GetTankHeading", "class_n_g_a_p_i_1_1_a_p_i.html#ac3e50a4e2991c7beba3b03b9c542b126", null ],
+    [ "GetTankPosition", "class_n_g_a_p_i_1_1_a_p_i.html#aa2d9caed17f411f77fb61d1256b0d75c", null ],
+    [ "GetTankSpeed", "class_n_g_a_p_i_1_1_a_p_i.html#ad901bdd1f872b2c13a4e2b1cca5e7d5d", null ],
+    [ "GetUAVHeading", "class_n_g_a_p_i_1_1_a_p_i.html#af9bb6767a9d7b036ec43da9b16e10319", null ],
+    [ "GetUAVPosition", "class_n_g_a_p_i_1_1_a_p_i.html#a889ebb574b908674dacef83a2c3d048f", null ],
+    [ "GetUAVSpeed", "class_n_g_a_p_i_1_1_a_p_i.html#af02ffd997c2941a87a020b74c1852cbf", null ],
+    [ "SetTankHeading", "class_n_g_a_p_i_1_1_a_p_i.html#a7bb4fcbbc23b3f95f372c7276c92386e", null ],
+    [ "SetTankSpeed", "class_n_g_a_p_i_1_1_a_p_i.html#a44b396868d10d6182bca1b11fc1e0f65", null ],
+    [ "SetUAVHeading", "class_n_g_a_p_i_1_1_a_p_i.html#a4f4b52858fe2894e7536c1de321fa894", null ],
+    [ "SetUAVSpeed", "class_n_g_a_p_i_1_1_a_p_i.html#a362ce9fec87f71fc8b93e8080f83653a", null ],
+    [ "CurrentTeam", "class_n_g_a_p_i_1_1_a_p_i.html#a16dd1313ce5607ace2f090b6e5cc046a", null ],
+    [ "Simulation", "class_n_g_a_p_i_1_1_a_p_i.html#affe3bb76635624559ed0b534bd52ec14", null ],
+    [ "EnemyTank", "class_n_g_a_p_i_1_1_a_p_i.html#af4ec3821fab1a50e0197e44874bf7660", null ],
+    [ "EnemyUAV", "class_n_g_a_p_i_1_1_a_p_i.html#a94df546e54d160610f45d5a46ba1dab7", null ],
+    [ "FriendlyTank", "class_n_g_a_p_i_1_1_a_p_i.html#aa6bd6518b377af427ff2bd9f43b5935a", null ],
+    [ "FriendlyUAV", "class_n_g_a_p_i_1_1_a_p_i.html#a296d43a007da5ce44a5d853d1fdaa037", null ]
+];
